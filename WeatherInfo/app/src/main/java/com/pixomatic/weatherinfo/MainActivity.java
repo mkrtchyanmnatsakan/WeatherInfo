@@ -36,6 +36,8 @@ public class MainActivity extends BaseActivity  {
 
         String test = "test branch";
 
+        String testTerminal = "testTerminal";
+
   }
 
     private void initViews(){
