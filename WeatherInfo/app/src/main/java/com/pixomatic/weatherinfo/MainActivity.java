@@ -34,6 +34,8 @@ public class MainActivity extends BaseActivity  {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
 
+        String test = "test branch";
+
   }
 
     private void initViews(){
